@@ -340,19 +340,19 @@ const AboutDNA = () => {
   const values = [
     { 
       title: "Nosso Propósito", 
-      text: "Posicionar empresas e marcas líderes no topo absoluto de seus nichos, munindo-as com infraestrutura digital premium, design cinematográfico e engenharia de alto padrão.", 
+      text: "Colocar marcas e empresas líderes no topo de seus mercados, preparando-as com sites modernos, design profissional e tecnologia de ponta.", 
       icon: <Rocket className="w-6 h-6 text-[#f59e0b]" />,
       label: "Impulso" 
     },
     { 
       title: "Nossa Missão", 
-      text: "Materializar a excelência operacional através de código limpo, automações cognitivas e estratégias de marketing de elite que maximizam o retorno financeiro de nossos parceiros.", 
+      text: "Garantir o melhor funcionamento do seu negócio com sistemas rápidos, automações inteligentes e estratégias de marketing eficientes que aumentam os lucros dos nossos parceiros.", 
       icon: <Target className="w-6 h-6 text-[#f59e0b]" />,
       label: "Foco" 
     },
     { 
       title: "Nossa Visão", 
-      text: "Consolidar a Elevion Labs como o ecossistema tecnológico definitivo para negócios que rejeitam o comum, estabelecendo novos horizons em IA, design de conversão e escalabilidade global.", 
+      text: "Tornar a Elevion Labs a parceira ideal de tecnologia para empresas que buscam crescer de verdade, trazendo inovação em inteligência artificial, páginas focadas em vendas e crescimento global.", 
       icon: <Eye className="w-6 h-6 text-[#f59e0b]" />,
       label: "Alcance" 
     },
@@ -707,7 +707,7 @@ const BentoGrid = () => {
             </div>
             <h3 className="text-3xl font-bold mb-4 font-display text-white group-hover:text-amber-400 transition-colors duration-300">Visão de Topo</h3>
             <p className="text-zinc-300 md:text-zinc-400 text-sm leading-relaxed max-w-sm font-light">
-              Não nos limitamos ao que o mercado dita atualmente. Construímos ecossistemas proprietários que antecipam o futuro do consumo digital e garantem que sua marca voe bem acima da concorrência comum.
+              Não nos limitamos ao que o mercado dita atualmente. Construímos sistemas próprios que antecipam o futuro das vendas digitais e garantem que sua marca fique bem acima da concorrência comum.
             </p>
           </motion.div>
 
@@ -736,7 +736,7 @@ const BentoGrid = () => {
             <div className="relative z-10">
               <h3 className="text-xl font-bold mb-3 font-display text-white group-hover:text-amber-400 transition-colors">A Mente Digital</h3>
               <p className="text-zinc-300 md:text-zinc-400 text-xs leading-relaxed max-w-md font-light">
-                Utilizamos inteligência artificial avançada não como um adereço superficial de marketing, mas como a verdadeira espinha dorsal de processos que analisam dados, tomam decisões táticas e escalam seu ROI de forma autônoma.
+                Utilizamos inteligência artificial avançada não apenas como um enfeite simples de marketing, mas como a base principal para analisar dados, ajudar a tomar decisões importantes e aumentar seu retorno financeiro de forma automática.
               </p>
             </div>
           </motion.div>
@@ -761,7 +761,7 @@ const BentoGrid = () => {
               <h3 className="text-lg font-bold mb-1 font-display text-white group-hover:text-black transition-colors">Direção de Alvo</h3>
               <p className="text-zinc-400 text-[9px] uppercase font-bold tracking-widest group-hover:text-black/75 transition-colors mb-3">Precisão de Voo</p>
               <p className="text-zinc-300 group-hover:text-black/80 text-[11px] leading-relaxed font-light transition-colors duration-300">
-                Foco cirúrgico em canais de aquisição de alta renda. Eliminamos desperdícios direcionando sua mensagem diretamente para tomadores de decisão com máxima precisão demográfica e comportamental.
+                Foco total em canais de vendas para clientes de alto padrão. Evitamos desperdícios enviando sua mensagem direto para quem toma as decisões com máxima precisão.
               </p>
             </div>
           </motion.div>
@@ -787,7 +787,7 @@ const BentoGrid = () => {
               <h3 className="text-base font-bold mb-1 font-display uppercase tracking-tight text-white group-hover:text-amber-400 transition-colors">Voo Contínuo</h3>
               <p className="text-zinc-500 text-[9px] uppercase font-bold tracking-widest mb-3">Evolução Incansável</p>
               <p className="text-zinc-400 group-hover:text-zinc-200 text-[11px] leading-relaxed font-light transition-colors duration-300">
-                Otimização contínua pós-lançamento. Analisamos dados em tempo real e calibramos sua plataforma para assegurar estabilidade, velocidade máxima e liderança de mercado perpétua.
+                Melhoria constante depois do lançamento. Analisamos os acessos em tempo real e ajustamos seu site para garantir estabilidade, velocidade máxima e destaque constante no mercado.
               </p>
             </div>
           </motion.div>
@@ -804,28 +804,28 @@ const ProcessSteps = () => {
       phase: "01",
       code: "PHASE_SURVEY",
       title: "Mapeamento Atmosférico", 
-      desc: "Analisamos o cenário atual e identificamos rotas de crescimento estratégico antes invisíveis para posicionamento supremo.",
+      desc: "Analisamos o cenário atual e encontramos novas rotas de crescimento antes invisíveis para dar destaque total ao seu negócio.",
       icon: Eye
     },
     { 
       phase: "02",
       code: "PHASE_ARCH",
       title: "Arquitetura de Voo", 
-      desc: "Desenhamos ecossistemas digitais robustos que garantem estabilidade de processamento, sofisticação estética e poder de manobra.",
+      desc: "Criamos sistemas digitais seguros e estáveis, com visual elegante e total facilidade de adaptação.",
       icon: Workflow
     },
     { 
       phase: "03",
       code: "PHASE_LAUNCH",
       title: "Ignição Tecnológica", 
-      desc: "Desenvolvimento técnico de alta precisão com engenharia de conversão e integração profunda de inteligência artificial aplicada.",
+      desc: "Desenvolvimento técnico de alta precisão com foco em aumento de vendas e inteligência artificial prática integrada.",
       icon: Rocket
     },
     { 
       phase: "04",
       code: "PHASE_CRUISE",
       title: "Domínio de Cruzeiro", 
-      desc: "Monitoramento analítico e calibragem constante em altitude para garantir que sua liderança de mercado seja inabalável e perpétua.",
+      desc: "Acompanhamento detalhado e melhorias constantes para garantir que o seu destaque no mercado seja permanente.",
       icon: ShieldCheck
     },
   ];
@@ -960,12 +960,12 @@ const ContactSection = () => {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-20">
         <div className="flex-1 space-y-12">
           <div className="space-y-6">
-            <span className="pill uppercase tracking-[0.4em] text-[10px] font-bold">Inicie sua Jornada</span>
+            <span className="pill uppercase tracking-[0.4em] text-[10px] font-bold">Dê o Primeiro Passo</span>
             <h2 className="text-4xl md:text-7xl font-display font-bold text-white leading-tight">
-              Pronto para <br /> <span className="text-eagle-glow">Dominar</span> os Ares?
+              Pronto para <br /> <span className="text-eagle-glow">Decolar</span> seu Negócio?
             </h2>
             <p className="text-zinc-300 md:text-zinc-500 text-lg md:text-xl font-light leading-relaxed max-w-md">
-              Entre em contato agora e descubra como a Elevion Labs pode elevar seu negócio através da inteligência estratégica.
+              Fale conosco agora e descubra como a Elevion Labs pode fazer sua empresa crescer com soluções modernas e inteligentes.
             </p>
           </div>
 
@@ -1039,10 +1039,10 @@ const ContactSection = () => {
               </div>
 
               <div className="space-y-3">
-                <label className="text-[10px] uppercase tracking-[0.3em] font-bold text-zinc-500 ml-4">Mensagem Estratégica</label>
+                <label className="text-[10px] uppercase tracking-[0.3em] font-bold text-zinc-500 ml-4">Sua Mensagem</label>
                 <textarea 
                   rows={4}
-                  placeholder="Como podemos elevar seu negócio?"
+                  placeholder="Como podemos ajudar a fazer sua empresa crescer?"
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}
                   className="w-full bg-white/5 border border-white/10 rounded-3xl px-8 py-5 text-white placeholder:text-zinc-700 focus:outline-none focus:border-[#f59e0b]/50 transition-colors resize-none"
@@ -1141,21 +1141,21 @@ const MarketingDoctrine = () => {
   const services = [
     { 
       title: "Roteiros Magnéticos", 
-      desc: "Estruturação narrativa cirúrgica e ganchos de retenção extremos projetados para Reels, Shorts e VSLs, transformando cada segundo de atenção em autoridade inabalável.", 
+      desc: "Histórias envolventes com técnicas para prender a atenção das pessoas no Reels, Shorts e vídeos, transformando cliques em clientes reais.", 
       icon: <Film className="w-8 h-8 text-[#f59e0b]" />,
-      features: ["Ganchos de Altíssima Retenção", "Direção de Ritmo Narrativo", "Copywriting Hipnótico Integrado"]
+      features: ["Atenção Rápida e Eficaz", "Histórias Fáceis de Entender", "Textos que Vendem de Verdade"]
     },
     { 
       title: "Criação de Posts", 
-      desc: "Direção de arte sob medida e carrosséis estratégicos estruturados sob rígida simetria visual, posicionando sua marca no topo da cadeia de percepção do feed.", 
+      desc: "Imagens bonitas e posts em carrossel feitos sob medida para organizar suas ideias, deixando o perfil da sua empresa muito mais profissional.", 
       icon: <PenTool className="w-8 h-8 text-[#f59e0b]" />,
-      features: ["Direção de Arte de Luxo", "Carrosséis de Alto Impacto", "Tipografia e Grid Proprietários"]
+      features: ["Visual Profissional", "Carrosséis Chamativos", "Letras e Cores Sob Medida"]
     },
     { 
       title: "Gestão & Estratégia", 
-      desc: "Planejamento tático de posicionamento digital e distribuição que garante que sua mensagem de alto padrão alcance os tomadores de decisão corretos.", 
+      desc: "Planejamento prático para divulgar sua marca na internet de forma inteligente, garantindo que sua mensagem chegue aos clientes certos.", 
       icon: <LineChart className="w-8 h-8 text-[#f59e0b]" />,
-      features: ["Linha Editorial Proprietária", "Posicionamento Premium", "Distribuição Multicanal Inteligente"]
+      features: ["Planejamento de Conteúdo", "Destaque no Mercado", "Divulgação em Várias Redes"]
     },
   ];
 
@@ -1168,15 +1168,15 @@ const MarketingDoctrine = () => {
         {/* Main Header */}
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-20 gap-12 border-b border-white/5 pb-16">
           <div className="flex-1">
-            <span className="pill mb-6 uppercase tracking-[0.4em] text-[10px] font-bold text-[#f59e0b]">Doutrina de Marketing</span>
+            <span className="pill mb-6 uppercase tracking-[0.4em] text-[10px] font-bold text-[#f59e0b]">Estratégia de Marketing</span>
             <h2 className="text-4xl md:text-7xl font-display font-black text-white leading-tight">
               A Arte de <br />
-              <span className="text-eagle-glow">Sobrevoar</span> a Média
+              <span className="text-eagle-glow">Superar</span> a Média
             </h2>
           </div>
           <div className="flex-1 md:pl-12">
             <p className="text-zinc-300 md:text-zinc-500 text-lg font-light leading-relaxed max-w-xl">
-              Nossa abordagem comunicativa recusa caminhos triviais ou barulho vazio. Criamos artefatos de impacto intelectual — onde design cinematográfico, ritmo visual e retórica estratégica agem integrados, consolidando hegemonias digitais absolutas.
+              Nossa forma de trabalhar evita caminhos comuns ou barulhos desnecessários. Criamos conteúdos de alta qualidade onde design moderno, ritmo dinâmico e escrita persuasiva andam juntos para destacar sua empresa de verdade no mercado.
             </p>
           </div>
         </div>
@@ -1290,12 +1290,6 @@ const Footer = () => {
       <div className="py-16 px-6 border-t border-white/5 bg-transparent">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-12">
           <div className="flex items-center gap-3 group">
-            <img 
-              src="https://lh3.googleusercontent.com/d/1bMMvDDgawKtoQZPnGMpjbt4a4NyfND_6" 
-              alt="Elevion Lab Logo" 
-              className="h-12 w-auto object-contain transition-transform group-hover:rotate-12"
-              referrerPolicy="no-referrer"
-            />
             <div className="text-xl font-extrabold tracking-tighter font-display uppercase">
               ELEVION<span className="text-[#f59e0b]">LABS</span>
             </div>
