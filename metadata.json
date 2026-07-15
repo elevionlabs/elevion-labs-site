@@ -1,0 +1,6 @@
+{
+  "name": "Elevion Lab",
+  "description": "Agência boutique de produção de landing pages de alta performance, unindo design criativo e inteligência artificial para experiências digitais de luxo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
